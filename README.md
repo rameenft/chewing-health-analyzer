@@ -108,7 +108,6 @@ Per-category score = Σ points / max × 100. Bucketed into **LOW / MODERATE / HI
 
 ## Limitations
 
-- Only 20 videos → high individual variance, hard to generalise
 - No ground-truth health outcomes → scoring is **literature-calibrated, not validated**
 - Food type / texture not controlled for
 
